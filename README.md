@@ -62,9 +62,6 @@ This project has no external dependencies and uses only Python's built-in librar
 
 Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
