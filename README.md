@@ -91,6 +91,7 @@ Contributions are welcome! Feel free to fork this repository, make improvements,
 ---
 
 This `README.md` provides a clear and detailed overview of the project, its features, code structure, scalability, cleanliness, and instructions for usage and contribution. It is designed to help users and potential contributors understand the project and its goals.
+<<<<<<< HEAD
 
 
 
@@ -102,3 +103,5 @@ This `README.md` provides a clear and detailed overview of the project, its feat
 
 
 
+=======
+>>>>>>> b3c67bcca106be9f950edd6a936d0ae33fdbb54e
