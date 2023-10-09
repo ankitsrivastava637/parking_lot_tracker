@@ -83,10 +83,6 @@ The code is designed with scalability in mind:
 
 This project has no external dependencies and uses only Python's built-in libraries.
 
-## Contributing
-
-Contributions are welcome! Feel free to fork this repository, make improvements, and submit pull requests.
-
 
 ---
 
