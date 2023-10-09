@@ -86,7 +86,7 @@ This project has no external dependencies and uses only Python's built-in librar
 
 ---
 
-This `README.md` provides a clear and detailed overview of the project, its features, code structure, scalability, cleanliness, and instructions for usage and contribution. It is designed to help users and potential contributors understand the project and its goals.
+This `README.md` provides a clear and detailed overview of the project, its features, code structure, scalability, and instructions for usage. It is designed to help users understand the project and its goals.
 
 
 
