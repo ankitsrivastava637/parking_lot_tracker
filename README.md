@@ -42,7 +42,7 @@ To use the Parking Lot Tracker, follow these steps:
 1. Clone the repository to your local machine.
 
    ```bash
-   git clone https://github.com/ankitsrivastava637/parking-lot-tracker.git
+   https://github.com/ankitsrivastava637/parking_lot_tracker.git
    ```
 
 2. Navigate to the project directory.
